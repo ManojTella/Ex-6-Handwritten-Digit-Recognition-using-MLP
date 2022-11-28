@@ -170,4 +170,4 @@ get_accuracy(dev_predictions, Y_dev)
 
 
 ## Result:
-
+Thus The Implementation of Handwritten Digit Recognition using MLP Is Executed Successfully.
